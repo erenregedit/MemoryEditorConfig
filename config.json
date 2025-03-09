@@ -1,13 +1,13 @@
 {
   "awmswitch": {
-    "searchPattern": "ff gg tt",
+    "searchPattern": "ff er 44 dd",
     "offsets": [
-      12,
-      35
+      99,
+      14
     ],
     "writeValues": [
       "ff",
-      " ed"
+      "ff"
     ]
   },
   "awmyswitch": {
