@@ -1,13 +1,12 @@
 {
   "awmswitch": {
-    "searchPattern": "ff ff ff ff",
+    "searchPattern": "eren on top",
     "offsets": [
-      12,
-      14
+      25,
+      23
     ],
     "writeValues": [
-      "ff",
-      " er"
+      "hehe"
     ]
   },
   "awmyswitch": {
